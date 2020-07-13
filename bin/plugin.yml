@@ -1,0 +1,19 @@
+name: sInfo
+version: 1.0
+author: Nacho
+main: me.nacho.sinfo.Main
+commands:
+  discord:
+    aliases: ["discordia"]
+  teamspeak:
+    aliases: ["ts", "ts3"]
+  forum:
+    aliases: ["forums", "foro"]
+  website:
+    aliases: ["web", "webs"]
+  twitter:
+    aliases: ["tw"]
+  store:
+    aliases: ["shop", "tienda"]
+  sinfo:
+    aliases: [""]

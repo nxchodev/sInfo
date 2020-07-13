@@ -1,0 +1,28 @@
+#          Support: nacho.host/discord               
+#          Version: 1.0                               
+#          Suggest features at our discord            
+
+discord-command: 
+  - "&7&m--------------------------------"
+  - "&6&lDiscord > &fdiscord.io/phonexmc"
+  - "&7&m--------------------------------"
+teamspeak-command: 
+  - "&7&m--------------------------------"
+  - "&6&lTeamSpeak > &fts.phonexmc.us"
+  - "&7&m--------------------------------"
+forum-command: 
+  - "&7&m--------------------------------"
+  - "&6&lForum > &fwww.phonexmc.us/forum"
+  - "&7&m--------------------------------"
+website-command: 
+  - "&7&m--------------------------------"
+  - "&6&lWebsite > &fwww.phonexmc.us"
+  - "&7&m--------------------------------"
+twitter-command:
+  - "&7&m--------------------------------"
+  - "&6&lTwitter > &ftwitter.com/PhonexNT"
+  - "&7&m--------------------------------"
+store-command: 
+  - "&7&m--------------------------------"
+  - "&6&lStore > &fstore.phonexmc.us"
+  - "&7&m--------------------------------"
